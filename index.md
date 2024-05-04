@@ -26,3 +26,10 @@ git clone https://github.com/geoffreylgv/geoffreylgv.git
 |--|--|--|
 |ruth ikegah|@ikegahruth|All in Africa Programme Manager|
 |geoffrey logovi|@geoffreylgv|Open source community advocate|
+
+### Tasklist - Todo list
+- [x] Onboarding All in africa programme
+- [x] Start learning
+- [ ] Join the office hours west africa regional ambassadors  with umeh pecullar
+- [ ] help my fellows
+- [ ] other
